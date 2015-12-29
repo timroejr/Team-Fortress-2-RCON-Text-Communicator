@@ -1,4 +1,6 @@
 # About
+[![Build Status](https://travis-ci.org/timroejr/Team-Fortress-2-RCON-Text-Communicator.svg)](https://travis-ci.org/timroejr/Team-Fortress-2-RCON-Text-Communicator)
+
 This Project is a simple Java based applet to control your server via RCON.
 
 # WORK IN PROGRESS
